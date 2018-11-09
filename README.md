@@ -1,4 +1,4 @@
-OpenSea's webpage, credits to:
+* OpenSea's webpage, credits to: *
 
 Dimension by HTML5 UP
 html5up.net | @ajlkn
